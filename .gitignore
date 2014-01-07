@@ -4,3 +4,7 @@
 *.jar
 *.war
 *.ear
+
+public class void main (String []args ){
+
+system.out.println("hola mundo ");}
